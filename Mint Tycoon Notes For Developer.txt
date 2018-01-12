@@ -1,0 +1,99 @@
+Mint Tycoon (Played To Completion) Everything I don't like about it and solutions:
+
+Top Of Page Is Problems -- Bottom of this notepad is Suggestions -- Middle of page is non sense that is optional to read (non-sense part is labeled *Not Necessary To Read*)
+
+-------------------------------------------------------------
+| P = Problem (Ex. P1 Means Problem #1)                     |
+| S = Solution (Ex. S1 Means Solution To P1)                |
+| ( ) = Anything Inside Parentheses Is Typically An Example |
+-------------------------------------------------------------
+
+- (P1) Starting off there are a lot of buttons but have no idea what they do. They are placed at high prices for beginners so buying something and then realizing it doesn't do anything good for you is annoying to have to make that money back. When I first started I bought the grinder thinking it would get me more money but it just gave a robux bonus and considering I cannot collect robux at that level it is useless to buy at the beginning (I found out later the robux thing is not actually true and I get more money from selling. Either way problem still stands on other others).
+
+- (S1) Have a way to read a description on what each button does. (Possible way, hovering your mouse over the button and text will display telling you what it does).
+
+- (P2) Some buttons show up before they should, such as the silver forge. The silver forge was the second thing I bought just to find out it was once again.. useless. I actually ended up reseting my game data because I thought it bugged out since the thing kept saying "Vault Full" even though I had nothing in it. Come to realize I hadn't bought the vault to hold silver yet which this realization came to me later.
+
+- (S2) Don't show a button for something I can buy before I can actually use it. (An example would be the silver forge, have the silver forge button appear AFTER I buy the silver vault that way I can actually use it and I didn't end up wasting $1000 which once again, takes a bit of time to remake in the beginning)
+
+Completed In 1 Day - 5 Hours 32 Minutes
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+In Depth Detail of every little thing (Read only for very specific stuff):
+
+- Buttons Need Descriptions
+- Can buy silver forge before silver vault
+- Can buy gold forge before gold vault
+- Can buy platinum forge before vault
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| *VERY NECESSARY TO READ* |
+V--------------------------V
+Suggestions For Things NOT in the game already:
+
+----------------------------------------------------------
+| Unknown = I don't remember the player who suggested it |
+----------------------------------------------------------
+
+***I WILL NOT TAKE CREDIT FOR SUGGESTIONS THAT WERE NOT MINE. Anything Wwith -- Idea By "username" -- Means it is not my idea and I do not take credit for thinking of it***
+
+
+- Defensive Turrets In The Vaults (There should be a way to protect your vault instead of you having to teleport to it and protect it yourself if you're busy doing something, a way would be some kind of defensive turrets. Maybe there are lasers in the vaults only triggered by someone who isn't the owner and if those lasers are tripped then those turrets activate and they shoot the player down, that way instead of just an obby you have lasers to work behind making vaults harder to break into). -- Idea By "Unknown" --
+
+- Maybe there is a place you can so instead of selling in the main building and being limited to what you sell, you can go to this person and give them a certain amount of each metal you want, so like 123 bronze, 76 silver and it will give you a price for what you have instead of being limited. I've noticed you can't sell bronze, silver, and gold only. You have to have platinum to sell with gold, so buying gold forge is also useless until you've bought platinum which is expensive and might take a bit. (I guess that is the definition of a tycoon tho isn't it)
+
+- *PERSONAL SUGGESTION FOR PROBLEMS I AM HAVING* - Maybe ask if a player is sure they want to buy what they are buying - I keep accidentally buying things. I know it sounds stupid but since there isn't anything for me to do I jump around waiting for my mint so I can sell. I've accidentally bought 2 things while doing this while saving up for the next mint printer... I was at $2800 when I accidentally got pressed by the presser thing and it made me buy the grinder, then when I was at $3,200 I accidentally bought the gold mine jumping around waiting for my stuff do stack up and didn't even realize it. And not being able to make $6k to buy the large press money is so slooowww so when accidentally buying something it is extremely frustrating to be sent back to almost nothing. And not only that buying the gold forge which I cannot use so it is to absolutely no use to me at this point in the game.
+
+- Maybe a way to loan people money?
+
+- PLEASE make a way to turn lights on and off. On Mint 2 base it looks so sick with all the green covering the floor but was extremely dissapointed when I bought the lights. All the green be gone yo!
+
+- Instead of just selling metals for money to buy items, you use metals to craft certain weapons i.e bombs
+
+VVVV***************************READ AFTER YOU'VE READ PREVIOUS SUGGESTIONS AS SOME OF THESE TIE INTO GETHER***************************VVVV
+----------------------------------------------------------------					           ----------------------------------------------------------------
+| *EVERYTHING LISTED IN THIS AREA WAS SUGGESTED BY likilike77* | --> VVVV All New Metals And What They Do VVVV <-- | *EVERYTHING LISTED IN THIS AREA WAS SUGGESTED BY likilike77* |
+----------------------------------------------------------------					           ----------------------------------------------------------------
+New Objects: 
+
+Printer For Radioactive Material:
+- Printer will be used to extract radioactive material
+
+Containment Chamber:
+- Used to contain radioactive material
+
+Compression Chamber:
+- Used to compress certain metals into a different state of form (creating a different type of material)
+
+Weapon Machine (Not a clever name I know):
+- Has to be powered by Uranium
+- Hooked up to the back of compression chamber, after compression of said material it is then put into whatever the player is crafting
+
+New Metals/Materials:
+
+Uranium:
+- Sold for high amounts of money in industrial exchange
+- Requires special bag to steal from vaults
+- Requires containment chamber to be stored due to radioactivity
+- Uses Compression Chamber to turn into Plutonium
+- Used to power machines like compression chamber
+
+Plutonium:
+- Can be crafted into weapons such as bombs
+- 500 Uranium can be compressed into 1 Plutonium, 2 plutonium can be used to create a bomb that stuns the lasers inside vault area to prevent tripping the protective turrets
+- due to how unstable plutonium is, it cannot be stored. (Thats where the Weapon Machine is used)
+
+Gallium:
+- Can be sold in the industrial exchange for same amount as Uranium
+- Extracted by adding a freezing attatchment to normal printers which allow for extraction of Gallium
+- Gallium would have to have a special vault due to the melting point of above 0 degrees celcius, the vault will be powered by Uranium. If you run out of Uranium powering the Vault, after a certain amount of time your Gallium will melt and you will start to lose it
+- Atomic bomb will stop the power flow of Uranium thus making it risky to use if you are trying to steal Gallium. Meaning if you use the bomb you're power supply of Uranium will be depleted and you will have no more power running the vault.
+
+**Also an alarm system to be added to vaults to let you know when a player is raiding you**
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Bugs I Came Across:
+- Stolen Coin Trade Is Broken.
+- I've noticed sometimes my mint printers will switch to another metal and I'll be completely oblivious for awhile.
+- A player named likilike77 showed me a glitch which allowed you to bypass all the obby's, felt it was necessary to add - Using gravity coils, if you jump and hug the wall you go further then usual so you can just skip all the obby's and get to the robux vault within 15-20 seconds. (Possible Fix - Either reduce the gravity in the gravity coil or make the obby's longer)
+- The trade people on the permeter of the map break all the time. I robbed a guys robux (because he let me) and I couldn't sell it.
+
